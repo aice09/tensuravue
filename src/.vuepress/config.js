@@ -57,8 +57,13 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'chapter-list',
+            'prologue',
             'chapter-29',
+            'chapter-245',
+            'chapter-246',
+            'chapter-247',
+            'chapter-248',
           ]
         }
       ],
