@@ -74,6 +74,7 @@ module.exports = {
           children: [
             '',
             'manga-chapter-90',
+            'manga-chapter-96',
           ]
         }
       ],
