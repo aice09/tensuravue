@@ -1,0 +1,1 @@
+# Chapter 6 – Hero King's Judgement
